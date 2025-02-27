@@ -1,0 +1,25 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs
+*.egg
+*.env
+.venv
+env/
+venv/
+build/
+dist/
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Airflow / Prefect
+airflow.cfg
+logs/
+.dags/
+
+# MLflow
+mlruns/
