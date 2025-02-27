@@ -4,7 +4,6 @@ This repository contains implementations of neural networks using different appr
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9%2B-red)](https://pytorch.org/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ## 📋 Repository Overview
 
@@ -131,10 +130,6 @@ This repository demonstrates the transition from mathematical neural network the
 | Educational Value | Highest | High | Moderate |
 | Flexibility | Custom | High | Limited |
 | Integration with Ecosystem | None | Full | Full |
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Acknowledgments & 📚 References
 
